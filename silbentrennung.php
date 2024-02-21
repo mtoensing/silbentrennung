@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Silbentrennung
- * Plugin URI: http://yourwebsite.com/silbentrennung
+ * Plugin URI: http://toensing.com/silbentrennung
  * Description: Adds CSS for text hyphenation across the site.
  * Version: 1.0
- * Author: Your Name
+ * Author: Marc Tönsing
  * Author URI: https://toensing.com
  */
 

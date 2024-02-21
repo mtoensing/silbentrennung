@@ -1,6 +1,6 @@
 === Silbentrennung ===
 Contributors: MarcDK
-Donate link: http://yourwebsite.com/donate
+Donate link: https://marc.tv/out/donate
 Tags: hyphens, text formatting, CSS
 Requires at least: 5.0
 Tested up to: 5.9
@@ -13,7 +13,7 @@ This plugin automatically adds hyphenation to your text across the website using
 
 == Description ==
 
-Silbentrennusng is a simple WordPress plugin that applies the CSS rule `hyphens: auto;` globally to your website. This ensures that text across your site is automatically hyphenated based on the language settings of your website, improving readability and text appearance on smaller screens.
+Silbentrennung is a simple WordPress plugin that applies the CSS rule `hyphens: auto;` globally to your website. This ensures that text across your site is automatically hyphenated based on the language settings of your website, improving readability and text appearance on smaller screens.
 
 == Installation ==
 
@@ -31,4 +31,3 @@ The effectiveness of the `hyphens: auto;` CSS property depends on the browser's 
 
 = 1.0 =
 * Initial release.
-s
