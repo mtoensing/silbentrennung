@@ -1,7 +1,7 @@
 === Silbentrennung ===
 Contributors: MarcDK
 Donate link: https://marc.tv/out/donate
-Tags: hyphens, text formatting, CSS
+Tags: hyphens, text formatting, CSS, Silbentrennung
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.2
