@@ -29,5 +29,5 @@ The effectiveness of the `hyphens: auto;` CSS property depends on the browser's 
 
 == Changelog ==
 
-= 1.3 =
+= 1.4 =
 * Initial release.
