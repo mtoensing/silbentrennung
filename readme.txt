@@ -1,11 +1,11 @@
 === Silbentrennung ===
 Contributors: MarcDK
 Donate link: https://marc.tv/out/donate
-Tags: hyphens, text formatting, CSS, Silbentrennung
+Tags: CSS, Typography
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.2
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,5 +29,5 @@ The effectiveness of the `hyphens: auto;` CSS property depends on the browser's 
 
 == Changelog ==
 
-= 1.5 =
+= 1.6 =
 * Initial release.
