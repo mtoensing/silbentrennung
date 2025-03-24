@@ -5,7 +5,7 @@ Tags: hyphens, text formatting, CSS, Silbentrennung
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.2
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,5 +29,5 @@ The effectiveness of the `hyphens: auto;` CSS property depends on the browser's 
 
 == Changelog ==
 
-= 1.4 =
+= 1.5 =
 * Initial release.
