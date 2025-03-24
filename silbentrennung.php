@@ -3,7 +3,7 @@
  * Plugin Name: Silbentrennung
  * Plugin URI: http://toensing.com/silbentrennung
  * Description: Adds CSS for text hyphenation across the site.
- * Version: 1.3
+ * Version: 1.4
  * License: GPLv2 or later
  * Author: Marc Tönsing
  * Author URI: https://toensing.com
