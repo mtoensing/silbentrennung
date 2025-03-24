@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <path d="M484.504,139.194C484.504,76.495 433.6,25.591 370.901,25.591L136.335,25.591C73.636,25.591 22.732,76.495 22.732,139.194L22.732,366.4C22.732,429.099 73.636,480.003 136.335,480.003L370.901,480.003C433.6,480.003 484.504,429.099 484.504,366.4L484.504,139.194Z" style="fill:rgb(0,96,120);"/>
-    <g transform="matrix(1,0,0,1,25.7038,29.632)">
-        <text x="31.793px" y="140.184px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:130px;fill:white;">Silben-</text>
-        <text x="31.793px" y="270.184px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:130px;fill:white;">tr<tspan x="128.15px 201.085px " y="270.184px 270.184px ">en</tspan>-</text>
-        <text x="31.793px" y="400.184px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:130px;fill:white;">nung</text>
+    <g transform="matrix(1,0,0,1,45.6184,25.4015)">
+        <text x="31.793px" y="117.391px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:100px;fill:white;">Silben-</text>
+        <text x="31.793px" y="217.391px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:100px;fill:white;">tr<tspan x="105.914px 162.018px " y="217.391px 217.391px ">en</tspan>-</text>
+        <text x="31.793px" y="317.391px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:100px;fill:white;">nung</text>
     </g>
 </svg>
