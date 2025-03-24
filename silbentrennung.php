@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Silbentrennung
- * Plugin URI: http://toensing.com/silbentrennung
+ * Plugin URI: http://toensing.com/
  * Description: Adds CSS for text hyphenation across the site.
- * Version: 1.6
+ * Version: 1.7
  * License: GPLv2 or later
  * Author: Marc Tönsing
  * Author URI: https://toensing.com
