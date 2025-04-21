@@ -5,7 +5,7 @@ Tags: CSS, Typography
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 1.9
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ This plugin automatically adds hyphenation to your text across the website using
 
 == Description ==
 
-Silbentrennung is a simple WordPress plugin that activates hyphenation globally to your website. This ensures that text across your site is automatically hyphenated based on the language settings of your website, improving readability and text appearance on smaller screens. 
+Silbentrennung is a simple WordPress plugin that activates hyphenation globally on your website. This ensures that text across your site is automatically hyphenated based on the language settings of your website, improving readability and text appearance on smaller screens. 
 
 == Installation ==
 
@@ -29,7 +29,7 @@ The effectiveness of the `hyphens: auto;` CSS property depends on the browser's 
 
 == Changelog ==
 
-= 1.9 =
+= 2.0 =
 * Compatibility with WordPress 6.8
 
 = 1.7 =
