@@ -3,9 +3,9 @@ Contributors: MarcDK
 Donate link: https://marc.tv/out/donate
 Tags: CSS, Typography
 Requires at least: 5.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.2
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ Silbentrennung is a simple WordPress plugin that activates hyphenation globally 
 The effectiveness of the `hyphens: auto;` CSS property depends on the browser's language support. Most modern browsers support a wide range of languages.
 
 == Changelog ==
+
+= 2.1 =
+* Maintenance release.
 
 = 2.0 =
 * Compatibility with WordPress 6.8
