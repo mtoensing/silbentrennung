@@ -3,7 +3,7 @@ Contributors: MarcDK
 Donate link: https://marc.tv/out/donate
 Tags: CSS, Typography
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.2
 Stable tag: 2.1
 License: GPLv2 or later
